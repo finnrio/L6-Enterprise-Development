@@ -1,0 +1,6 @@
+INSERT INTO category (id, categoryName) VALUES('0001', 'category1')
+INSERT INTO category (id, categoryName) VALUES('0002', 'category2')
+
+INSERT INTO skill (id, skillName, desc, category) VALUES('0001', 'skill1', 'desc1', '0001'
+INSERT INTO skill (id, skillName, desc, category) VALUES('0002', 'skill2', 'desc2', '0001'
+INSERT INTO skill (id, skillName, desc, category) VALUES('0003', 'skill3', 'desc3', '0002'
